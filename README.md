@@ -1,4 +1,4 @@
-# sf-paarking-citations
+# sf-parking-citations
 
 Written by Jiyun Tsai for Advanced Coding Final Project at UC Berkeley Journalism School <br/>
 November 5th, 2022
