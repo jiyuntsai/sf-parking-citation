@@ -3,6 +3,8 @@
 Written by Jiyun Tsai for Advanced Coding Final Project at UC Berkeley Journalism School <br/>
 November 5th, 2022
 
+**ALL .csv files can be found [here](https://drive.google.com/drive/folders/1SJ0jPphZWaPy7h72a2X3uj4rI_nGH8hH?usp=share_link)**
+
 ## Description
 
 Using [SFMTA - Parking Citations](https://data.sfgov.org/Transportation/SFMTA-Parking-Citations/ab4h-6ztd) from DataSF as the main dataset for analysis. The dataset is provided by San Francisco Municipal Transportation Agency (SFMTA) that contains each parking ticket issued since January, 1st, 2008 to present. The data includes the following information: citation number, issued date and time, violation description, citation location, vehicle plate, fine amount, and geolocation point.
